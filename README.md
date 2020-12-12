@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junkata&count_private=true&theme=solarized-light)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junkata&count_private=true&theme=tokyonight)
 
